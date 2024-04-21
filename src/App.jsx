@@ -9,7 +9,7 @@ function App() {
         <span className="text-green-400"> don't listen</span>.
       </p>
       <br />
-      <p>If you are <i>ever</i> feeling suicidal or depressed, please dial the appropriate suicide hotline for your area.</p>
+      <p>If you are <i>ever</i> feeling suicidal or depressed, please dial <a href="https://blog.opencounseling.com/suicide-hotlines/">the appropriate suicide hotline for your area</a>.</p>
       <br />
       <hr />
       <br />
