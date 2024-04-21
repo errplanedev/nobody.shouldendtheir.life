@@ -13,7 +13,7 @@ function App() {
       <br />
       <hr />
       <br />
-      <p>Made with <span className="text-green-400">all</span> of <a href="/">errplane</a>'s ❤️</p>
+      <p>Made with <span className="text-green-400">all</span> of <a href="https://dour.com">errplane</a>'s ❤️</p>
     </div>
   )
 }
